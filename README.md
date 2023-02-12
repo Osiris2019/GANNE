@@ -1,4 +1,7 @@
 # GANNE
 Genetic Algorithm Neural Network Ensemble model for genetic risk prediction (SNP)
 
-#Best SNP set is selected by GA_classifier --> Select multiple SNP sets --> Train each SNPs with ANN --> Ensemble classifier file to sumup.
+1) Best SNP set is exracted by GA_classifier
+2) Select multiple SNP sets
+3) Train each SNPs with ANN
+4) Ensemble classifier file to ensemble the results
